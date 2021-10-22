@@ -1,4 +1,4 @@
-# Team - Хаккатон
+# Team - Хиккатон
 
 кейс - traffic-control
 
